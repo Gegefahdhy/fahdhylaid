@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+header {
+    background-color: #1E90FF;
+    padding: 20px;
+    text-align: center;
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+}
+nav {
+    background-color: #1E90FF;
+    padding: 10px;
+    text-align: center;
+}
+nav a {
+    margin: 0 15px;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+section {
+    padding: 20px;
+}
+h2 {
+    color: #00bfff;
+}
+.profile-img img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.info, .hobi, .favorite-lesson, .favorite-food {
+    margin-bottom: 30px;
+}
+.info ul {
+    list-style-type: none;
+    padding: 0;
+}
+.info ul li {
+    margin-bottom: 10px;
+}
+img {
+    width: 100%;
+    max-width: 300px;
+}
